@@ -3,8 +3,7 @@
 ## lista de ações
 criei um repositório e fiz commit
 
+# Identificação
 
-
-|----------|----------|
-| Nome   | António MACHADO   | 
-| Célula 4   | afmachado@ipca.pt   |
+- **Nome:** Antonio Machado
+- **Email:** antonio.machado@gmail.com
